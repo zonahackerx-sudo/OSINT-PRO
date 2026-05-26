@@ -1,6 +1,27 @@
 # OSINT-PRO
 Repositorio de un arsenal de herramientas para la INVESTIGACION DE FUENTES ABIERTAS - OSINT
 
+<div align="center">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/watch?v=YDRFE9qtQ30"
+    title="Video de YouTube"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  >
+  </iframe>
+</div>
+
+
+
+
+
+
+
+
+
 
 # 🔍 ARSENAL OSINT COMPLETO — ZONA HACKERX
 > Lista maestra de herramientas OSINT organizada 
