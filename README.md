@@ -1,26 +1,20 @@
+<p align="center">
+  <video
+    src="https://github.com/zonahackerx-sudo/OSINT-PRO/raw/main/PROGRAMANDO.mp4"
+    width="80%"
+    playsinline
+    muted
+    loop
+    controls
+  >
+    Tu navegador no soporta videos.
+  </video>
+</p>
+
+
+
 # OSINT-PRO
 Repositorio de un arsenal de herramientas para la INVESTIGACION DE FUENTES ABIERTAS - OSINT
-
-<div align="center">
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/watch?v=YDRFE9qtQ30"
-    title="Video de YouTube"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-  >
-  </iframe>
-</div>
-
-
-
-
-
-
-
-
 
 
 # 🔍 ARSENAL OSINT COMPLETO — ZONA HACKERX
